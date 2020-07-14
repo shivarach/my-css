@@ -10,6 +10,10 @@
                   }`
   * To adjust width of a button or any element based on cotent
     * `width: max-content`
+  * Transparent
+    * use `opacity: 0.8`
+  * Background text blur
+    * `backdrop-filter: blur(8px);`
     
 #### Flexbox
 * Apply flex and direction to the parent container
